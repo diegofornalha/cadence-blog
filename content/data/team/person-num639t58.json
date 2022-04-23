@@ -3,9 +3,5 @@
     "firstName": "Glaicon ",
     "lastName": "Peixer",
     "role": "Developer",
-    "bio": "Desenvolvedor Blockchain\n",
-    "image": {
-        "url": "https://assets.stackbit.com/components/images/default/default-person.png",
-        "altText": "Person photo"
-    }
+    "bio": "Desenvolvedor Blockchain\n"
 }
