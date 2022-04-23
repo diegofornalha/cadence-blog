@@ -19,7 +19,7 @@
             {
                 "type": "Button",
                 "label": "DOCUMENTAÇÃO",
-                "url": "/",
+                "url": "https://docs.onflow.org/cadence/",
                 "altText": "DOCUMENTAÇÃO",
                 "style": "primary"
             }
