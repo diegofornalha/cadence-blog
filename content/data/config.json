@@ -16,7 +16,7 @@
             },
             {
                 "type": "Button",
-                "label": "BLOG",
+                "label": "PLAYLISTS",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
