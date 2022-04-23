@@ -81,12 +81,6 @@
             },
             {
                 "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
