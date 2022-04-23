@@ -3,10 +3,5 @@
     "firstName": "Diego",
     "lastName": "Fornalha",
     "role": "Developer",
-    "bio": "Desenvolvedor Blockchain\n\n",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/hugh-saturation.jpg",
-        "altText": "Hugh Saturation photo"
-    }
+    "bio": "Desenvolvedor Blockchain\n\n"
 }
