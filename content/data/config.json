@@ -16,7 +16,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "BLOG",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
