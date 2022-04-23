@@ -18,7 +18,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Sign up",
+                "label": "DOCUMENTAÇÃO",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
