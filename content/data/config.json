@@ -111,13 +111,6 @@
                 "label": "Instagram",
                 "url": "/",
                 "icon": "instagram"
-            },
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "/",
-                "icon": "facebook"
             }
         ],
         "legalLinks": [
