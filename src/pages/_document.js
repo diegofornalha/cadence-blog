@@ -1,4 +1,4 @@
-import Analytics from 'components/Analytics'
+
 import React from 'react'
 
 import Document, { Head, Main, NextScript } from 'next/document'
