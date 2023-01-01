@@ -27,7 +27,6 @@ export default function MyApp({ Component, pageProps }) {
 
             />
             <Script
-                id="gtag-init"
                 dangerouslySetInnerHTML={{
                     __html: `
                         window.dataLayer = window.dataLayer || [];
