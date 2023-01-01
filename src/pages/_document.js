@@ -11,6 +11,7 @@ export default class MyDocument extends Document {
                 <body>
                     <Main />
                     <NextScript />
+                              <Analytics />
                 </body>
             </html>
         );
