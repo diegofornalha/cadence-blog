@@ -1,4 +1,3 @@
-import React from 'react'
 import Analytics from 'components/Analytics'
 
 import Document, { Head, Main, NextScript } from 'next/document'
@@ -13,6 +12,7 @@ export default class MyDocument extends Document {
                     <Main />
                     <NextScript />
                     <Analytics />
+
                 </body>
             </html>
         );
