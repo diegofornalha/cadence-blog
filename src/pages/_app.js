@@ -25,7 +25,7 @@ export default function MyApp({ Component, pageProps }) {
                 async
                 src={`https://www.googletagmanager.com/gtag/js?id=G-QH6FTZ9VEL4`}
 
-            />
+
             <Script
                 dangerouslySetInnerHTML={{
                     __html: `
