@@ -21,3 +21,4 @@ const Analytics = () => (
             />
         </>
 )
+export default 
