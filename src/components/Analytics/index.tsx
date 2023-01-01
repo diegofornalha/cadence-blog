@@ -1,7 +1,8 @@
-import React from 'react'
+import * as React from 'react';
+import Script from 'next/script';
 
 const Analytics = () => (
-            <>
+<>
             <Script
                 async
                 src={`https://www.googletagmanager.com/gtag/js?id=G-QH6FTZ9VEL4`}
@@ -19,6 +20,6 @@ const Analytics = () => (
                     `,
                 }}
             />
-        </>
-
-export default Analytics
+</>
+)
+export default Analytics;
