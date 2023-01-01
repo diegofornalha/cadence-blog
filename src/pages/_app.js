@@ -33,7 +33,7 @@ export default function MyApp({ Component, pageProps }) {
                         window.dataLayer = window.dataLayer || [];
                         function gtag(){dataLayer.push(arguments);}
                         gtag('js', new Date());
-                        gtag('config', 'GTM-KZWVV34', {
+                        gtag('config', 'G-QH6FTZ9VEL', {
                             page_path: window.location.pathname,
                         });
                     `,
