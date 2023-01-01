@@ -9,7 +9,7 @@ export default function MyApp({ Component, pageProps }) {
 
     const router = useRouter();
 
-  useEffect(() => {
+    useEffect(() => {
     const handleRouteChange = (url) => {
       pageview(url);
     };
