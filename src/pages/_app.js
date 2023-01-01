@@ -10,7 +10,7 @@ export default function MyApp({ Component, pageProps }) {
     const router = useRouter();
     useEffect(() => {
         const handleRouteChange = (url) => {
-            window.gtag('config', 'G-99JF8KBFVZ', {
+            window.gtag('config', 'GTM-KZWVV34', {
                 page_path: url,
             });
         };
@@ -22,7 +22,7 @@ export default function MyApp({ Component, pageProps }) {
     return (
         <>
             <Script
-                src={`https://www.googletagmanager.com/gtag/js?id=G-99JF8KBFVZ`}
+                src={`https://www.googletagmanager.com/gtag/js?id=GTM-KZWVV34`}
                 strategy="afterInteractive"
             />
             <Script
@@ -33,7 +33,7 @@ export default function MyApp({ Component, pageProps }) {
                         window.dataLayer = window.dataLayer || [];
                         function gtag(){dataLayer.push(arguments);}
                         gtag('js', new Date());
-                        gtag('config', 'G-99JF8KBFVZ', {
+                        gtag('config', 'GTM-KZWVV34', {
                             page_path: window.location.pathname,
                         });
                     `,
