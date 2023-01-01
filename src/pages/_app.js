@@ -10,7 +10,7 @@ export default function MyApp({ Component, pageProps }) {
     const router = useRouter();
     useEffect(() => {
         const handleRouteChange = (url) => {
-            window.gtag('config', 'GTM-KZWVV34', {
+            window.gtag('config', 'G-QH6FTZ9VEL', {
                 page_path: url,
             });
         };
