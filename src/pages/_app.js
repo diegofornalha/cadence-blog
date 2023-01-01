@@ -8,6 +8,7 @@ import { pageview } from "../lib/ga";
 export default function MyApp({ Component, pageProps }) {
     const router = useRouter();
 
+    
   useEffect(() => {
     const handleRouteChange = (url) => {
       pageview(url);
