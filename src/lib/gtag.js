@@ -1,6 +1,6 @@
 export const pageview = (url) => {
     if (window !== undefined) {
-        window.gtag("config", "G-99JF8KBFVZ", {
+        window.gtag("config", "GTM-KZWVV34", {
             page_path: url,
         });
     }
