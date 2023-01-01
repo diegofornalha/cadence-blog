@@ -74,15 +74,15 @@
         },
         "title": "A linguagem de programação no seu Flow",
         "contacts": {
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "Our phone",
-            "email": "info@lorem.mail",
-            "emailAltText": "Our email",
-            "address": "312 Lovely Street, NY",
-            "addressAltText": "Our address"
+            "title": "Detalhes de Contato",
+            "phoneNumber": "21 2491-5249",
+            "phoneAltText": "Nosso telefone",
+            "email": "contato@coflow.com.br",
+            "emailAltText": "Nosso E-mail",
+            "address": "Brasil | Rio de Janeiro",
+            "addressAltText": "Nosso Endereço"
         },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "copyrightText": "Feito com ❤️ por [Coflow](https://coflow.com.br/)\n",
         "primaryLinks": [
             {
                 "type": "Link",
@@ -100,24 +100,10 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "/",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
                 "url": "/",
                 "icon": "instagram"
-            },
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "/",
-                "icon": "facebook"
             }
         ],
         "legalLinks": [
