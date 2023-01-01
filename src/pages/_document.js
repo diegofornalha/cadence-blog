@@ -1,4 +1,4 @@
-import Analytics from 'src/components/Analytics'
+import Analytics from 
 
 import Document, { Head, Main, NextScript } from 'next/document'
 
