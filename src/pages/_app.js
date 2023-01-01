@@ -1,6 +1,4 @@
 import '../css/main.css';
-
-//adicionar o componente Analytics aqui
 import Analytics from '../components/Analytics';
 
 export default function MyApp({ Component, pageProps }) {
