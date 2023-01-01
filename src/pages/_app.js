@@ -24,11 +24,10 @@ export default function MyApp({ Component, pageProps }) {
             <Script
                 async
                 src={`https://www.googletagmanager.com/gtag/js?id=G-QH6FTZ9VEL4`}
-                strategy="afterInteractive"
+
             />
             <Script
                 id="gtag-init"
-                strategy="afterInteractive"
                 dangerouslySetInnerHTML={{
                     __html: `
                         window.dataLayer = window.dataLayer || [];
