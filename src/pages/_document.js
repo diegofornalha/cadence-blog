@@ -7,12 +7,12 @@ export default class MyDocument extends Document {
         return (
             <html>
                 <Head>
-                    
+
                 </Head>
                 <body>
                     <Main />
                     <NextScript />
-                    <Analytics />
+
                 </body>
             </html>
         );
