@@ -3,5 +3,10 @@ import Analytics from '../components/Analytics';
 
 
 export default function MyApp({ Component, pageProps }) {
-    return <Component {...pageProps} />;
+    return (
+        <>
+        <Analytics />
+        <Component {...pageProps} />
+        </>
+    );
 }
