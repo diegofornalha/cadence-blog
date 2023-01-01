@@ -27,7 +27,6 @@ export default function MyApp({ Component, pageProps }) {
                 strategy="afterInteractive"
             />
             <Script
-                async
                 id="gtag-init"
                 strategy="afterInteractive"
                 dangerouslySetInnerHTML={{
