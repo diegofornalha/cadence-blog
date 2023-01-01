@@ -12,7 +12,7 @@ export default function MyApp({ Component, pageProps }) {
     gtag('config', 'G-VWPJJRMJCP');
     `}
         </Script>
-            </>;
+    </>;
         return <Component {...pageProps} />;
 
 }
