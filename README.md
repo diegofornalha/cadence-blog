@@ -1,1 +1,1 @@
-# Tudo o que você precisa saber para programar contratos inteligentes 
+# Programe contratos inteligentes em Cadence
