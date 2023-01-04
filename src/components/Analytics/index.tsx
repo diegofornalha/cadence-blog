@@ -14,8 +14,7 @@ const Analytics = () => (
                         window.dataLayer = window.dataLayer || [];
                         function gtag(){dataLayer.push(arguments);}
                         gtag('js', new Date());
-                        gtag('config', '
-GTM-NZ2VSGK', {
+                        gtag('config', 'GTM-NZ2VSGK', {
                             page_path: window.location.pathname,
                         });
                     `,
